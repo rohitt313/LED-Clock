@@ -1,17 +1,3 @@
-* I have exclusive control over this submission via my password.
-* By including this statement in this header, I certify that
-* I have read and understood the University policy in academic
-* Integrity and I assert that this work is my own. I have
-* not used any unapproved external resources including LLM
-* models. Furthermore, I certify that is assignment was
-* prepared by me specifically for this course.
-
-*---------------------------------------------------------------
-* Name                    : Rohit Dalal
-* Student ID Number       : 1258479
-* Section Number          : 0214
-*---------------------------------------------------------------
-
             ORG    $8000            
 
 START:      
